@@ -1,0 +1,20 @@
+.page-pricing {
+}
+
+.ant-typography mark {
+  background: none;
+}
+
+.ant-list-item {
+  display: block;
+}
+
+.plan-item {
+  position: relative;
+}
+.plan-discount {
+  position: absolute;
+  right: -100px;
+  top: 20px;
+  width: 80px;
+}
